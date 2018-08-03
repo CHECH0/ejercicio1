@@ -14,7 +14,9 @@ public class JavaApplication1 {
     /**
      * @param args tassdfvdhe command line arguments
      */Sergio Suarique 20161020526
-     */juan esteban ramirez 20171025092
+     
+     Maria Sosa 20172025128
+     */juan esteban ramirez 20171025092.
     public static void main(String[] args) {
         // TODO code application logic here
     }
